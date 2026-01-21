@@ -8,7 +8,6 @@ v2fly_geoip-cloudfront.srs
 v2fly_geoip-fastly.srs
 v2fly_geoip-google.srs
 v2fly_geoip-private.srs
-v2fly_geoip-ru.srs
 v2fly_geoip-telegram.srs
 
 ### V2fly_GEOSITE ###
@@ -67,6 +66,7 @@ zkeen_geosite-politic.srs
 zkeen_geosite-youtube.srs
 
 ### Zkeen_GEOIP ###
+zkeen_geoip-ru.srs
 zkeen_geoip-akamai.srs
 zkeen_geoip-amazon.srs
 zkeen_geoip-cdn77.srs
@@ -92,3 +92,5 @@ zkeen_geoip-bunnycdn.srs
 zkeen_geoip-leaseweb.srs
 zkeen_geoip-liquidweb.srs
 zkeen_geoip-google.srs
+zkeen_geoip-arelion.srs
+zkeen_geoip-frantech.srs
